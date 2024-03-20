@@ -1,4 +1,4 @@
-# Text Mining Project
+# Text Mining Work Project
 
 ## Overview
 This project focuses on applying Natural Language Processing (NLP) techniques to process and analyze textual data. The main objective is to extract meaningful patterns and insights from the text data, utilizing various NLP methodologies.
