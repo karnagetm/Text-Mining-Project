@@ -27,9 +27,8 @@ To run the analysis, execute the Jupyter Notebook `V2.3_Karan_patel_Task.ipynb`.
 ## Results
 The results of the project include various metrics such as accuracy, precision, recall, and F1 score, as well as visualizations like confusion matrices and graphs illustrating model performance.
 
+# Final Versionn
+
 ## Acknowledgments
 - [Dataset Source](http://qwone.com/~jason/20Newsgroups/)
 - Contributors to the scikit-learn, NLTK, and related libraries.
-
-
-
