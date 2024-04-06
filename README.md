@@ -20,6 +20,7 @@ Before running this project, ensure you have the following dependencies installe
 - NLTK
 - Matplotlib
 - Seaborn
+- -lasl
 
 ## Usage:
 To run the analysis, execute the Jupyter Notebook `V2.3_Karan_patel_Task.ipynb`. Make sure to follow the steps in the notebook, which include data preprocessing, model training, prediction, evaluation and run all nodes chronologically.
